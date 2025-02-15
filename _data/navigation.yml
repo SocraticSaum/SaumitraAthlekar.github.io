@@ -14,14 +14,15 @@ main:
   - title: "Research"
     url: /research/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Project Work"
+    url: /projectwork/
 
   - title: "Teaching"
     url: /teaching/
 
   - title: "My Journey"
     url: /myjourney/
+    
   - title: "CV"
     url: /cv/
     
