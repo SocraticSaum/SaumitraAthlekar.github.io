@@ -13,7 +13,7 @@ title                    : "Saumitra Athlekar"
 title_separator          : "-"
 name                     : &name "Saumitra Athlekar"
 description              : &description "personal description"
-url                      : https://socraticsaum.github.io/SaumitraAthlekar.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://SaumitraAthlekar.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
